@@ -1,0 +1,97 @@
+
+<!---
+BobbyYadav98/BobbyYadav98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+</html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AmazonClone</title>
+    <link rel="stylesheet" href="indax.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="nav">
+             <img src="https://www.techsimplus.com/assets/imgs/logo/logo_white.png" alt="">
+             <div>
+                <ul>
+                    <li><a href="summerintern">Summer Intership <i class="fa-solid fa-sort-down"></i></a></li>
+                    <li><a href="solution">Institute Solution</a></li>
+                    <li><a href="events">Events</a></li>
+                    <li><a href="about">About Us</a></li>
+                    <li><a href="certificate">Certificate</a></li>
+                 </ul>
+             </div>
+             
+             <div class="log">
+                <p>Login</p>
+             </div>
+            
+        </div>
+    </header>
+
+    <div class="main">
+        <h2>Summer Internship <span style="color: #006d77;"> By</span></h2>
+        <h1>Developers From <span style="color: #006d77;"> Top Tech</span> Companies</h1>
+        <p>Learn most demanding and upcoming technologies.</p>
+
+        <p>  Build real-world professional project get placed in top tech companies.</p>
+            
+        <p>  Get real time working-experience as top tech developers.</p>
+        <div class="btn">
+            <span>Register Now <i class="fa-solid fa-arrow-right"></i></span>
+            <p> <i class="fa-solid fa-play"></i>Explore Our Programs </p>
+        </div>
+        <div class="row">
+            <div>
+                <h2>12k+</h2>
+         <p>Trained Stundents</p>
+            </div>
+         
+         <div>
+            <h2>200+</h2>
+            <p>Institute Trainings</p>
+         </div>
+         <div>
+            <h2>500+</h2>
+            <p>Projects</p>
+         </div>
+         <div>
+            <h2>11LPA+</h2>
+            <p>Avarage CTC</p>
+         </div>
+     </div>
+    </div>
+   <div class="container">
+      <h2>Our students got a placement</h2>
+      <p>These are students who joined Techsimplus to expand their careers
+        and were placed on high-tech companies.</p>
+        <div class="main-card">
+            <div class="card">
+                <div class="card1">Bobby Yadav</div>
+                <div class="card1">Gajendra</div>
+                <div class="card1">Ankit Kumar</div>
+                <div class="card1">Amit Kumar</div>
+                <div class="card1">Satyam</div>
+                <div class="card1">Ayush Raj</div>
+              </div>
+              <div class="card">
+                  <div class="card1">1</div>
+                  <div class="card1">2</div>
+                  <div class="card1">3</div>
+                  <div class="card1">4</div>
+                  <div class="card1">5</div>
+                  <div class="card1">6</div>
+                </div>
+        </div>
+       
+   </div>
+</body>
+</html>
